@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-mongo-oncodespec",
+  "version": "1.0.0",
+  "description": "This is sample application to check Node JS + mongo DB on GitHub code spec",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3"
+  }
+}
